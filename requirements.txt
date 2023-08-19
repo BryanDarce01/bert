@@ -1,4 +1,4 @@
 streamlit
-pip install torch
+torch
 transformers==latest
 uvicorn
